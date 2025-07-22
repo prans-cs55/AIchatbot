@@ -21,6 +21,7 @@ A web-based AI chatbot built with Python Flask and integrated with Google's Gemi
 - Internet connection
 
 ## 🚀 Getting Started
+<img width="2819" height="1437" alt="Screenshot 2025-07-22 193705" src="https://github.com/user-attachments/assets/8193f0c4-d146-4f5f-9edb-ca0269caf654" />
 
 ### 1. Clone the Repository
 ```bash
