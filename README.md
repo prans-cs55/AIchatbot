@@ -8,7 +8,7 @@ A web-based AI chatbot built with Python Flask and integrated with Google's Gemi
 - Gemini API integration (Google's LLM)
 - Flask backend to handle API requests
 - Responsive and clean front-end (HTML/CSS/JS)
-
+  
 ## 🛠️ Tech Stack
 - Python 3
 - Flask
