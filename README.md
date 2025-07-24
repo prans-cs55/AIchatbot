@@ -1,6 +1,5 @@
 # AIchatbot
 # 🤖 AI Chatbot using Gemini API (Flask)
-
 A web-based AI chatbot built with Python Flask and integrated with Google's Gemini API. This project allows users to interact with an AI model in real-time through a simple chat interface.
 
 ## 📌 Features
